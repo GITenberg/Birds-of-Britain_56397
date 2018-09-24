@@ -1,16 +1,21 @@
 _repo: Birds-of-Britain_56397
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Dresser, H. E.
     gutenberg_agent_id: '48818'
     url: http://www.gutenberg.org/2009/agents/48818
+covers:
+- cover_type: archival
+  image_path: 56397-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonhote, J. Lewis
     gutenberg_agent_id: '48817'
     url: http://www.gutenberg.org/2009/agents/48817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56397#Birds-of-Britain
 gutenberg_issued: '2018-01-19'
 gutenberg_type: Text
 identifiers:
